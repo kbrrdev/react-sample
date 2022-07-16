@@ -1,0 +1,30 @@
+.success-container {
+    padding: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.success-title {
+    max-width: 550px;
+    text-align: center;
+    font-size: 2.7rem;
+}
+
+.success-description {
+    margin-bottom: 30px;
+    max-width: 550px;
+    text-align: center;
+}
+
+.setup-items {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.setup-item {
+    width: 33%;
+    border: 1px solid black;
+    text-align: center;
+    padding: 10px 0;
+}

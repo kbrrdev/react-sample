@@ -1,0 +1,34 @@
+.banner {
+    display: flex;
+}
+
+.banner-left {
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.banner-left-container {
+    max-width: 500px;
+    margin: 150px 0;
+}
+
+.banner-title {
+    font-size: 3rem;
+    font-weight: bold;
+}
+
+.banner-description {
+    font-size: 1.1rem;
+    letter-spacing: 1.3px;
+    margin: 20px 0;
+}
+
+.get-started {
+    background-color: black;
+    color: white;
+    padding: 15px 30px;
+    border-radius: 25px;
+    font-size: 1.1rem;
+}
